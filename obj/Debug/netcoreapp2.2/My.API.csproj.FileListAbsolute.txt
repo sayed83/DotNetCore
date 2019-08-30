@@ -1,0 +1,14 @@
+E:\DotnetCore\My.API\bin\Debug\netcoreapp2.2\My.API.deps.json
+E:\DotnetCore\My.API\bin\Debug\netcoreapp2.2\My.API.runtimeconfig.json
+E:\DotnetCore\My.API\bin\Debug\netcoreapp2.2\My.API.runtimeconfig.dev.json
+E:\DotnetCore\My.API\bin\Debug\netcoreapp2.2\My.API.dll
+E:\DotnetCore\My.API\bin\Debug\netcoreapp2.2\My.API.pdb
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.csprojAssemblyReference.cache
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.csproj.CoreCompileInputs.cache
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.RazorAssemblyInfo.cache
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.RazorAssemblyInfo.cs
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.AssemblyInfoInputs.cache
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.AssemblyInfo.cs
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.RazorTargetAssemblyInfo.cache
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.dll
+E:\DotnetCore\My.API\obj\Debug\netcoreapp2.2\My.API.pdb
